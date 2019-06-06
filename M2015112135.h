@@ -12,8 +12,8 @@ public:
 		this->priority = priority;
 	}
 	void setPriority(int p);
-	bool myPoint::operator < (const myPoint &a);
-	bool myPoint::operator > (const myPoint &a);
+	bool operator < (const myPoint &a);
+	bool operator > (const myPoint &a);
 };
 
 class M2015112135 : public Player

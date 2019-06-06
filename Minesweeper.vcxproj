@@ -81,6 +81,7 @@
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="GameManager.cpp" />
     <ClCompile Include="M2012345678.cpp" />
+    <ClCompile Include="M2015112135.cpp" />
     <ClCompile Include="Minesweeper.cpp" />
     <ClCompile Include="Point.cpp" />
   </ItemGroup>
@@ -90,6 +91,7 @@
     <ClInclude Include="Game.h" />
     <ClInclude Include="GameManager.h" />
     <ClInclude Include="M2012345678.h" />
+    <ClInclude Include="M2015112135.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="Point.h" />
     <ClInclude Include="Student.h" />

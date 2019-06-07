@@ -1,4 +1,5 @@
 #include "Game.h"
+#include <cstring>
 Game::Game()
 {
 	//지뢰 위치를 랜덤하게 생성해서 저장함

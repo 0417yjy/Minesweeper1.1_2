@@ -19,7 +19,8 @@ public:
 class M2015112135 : public Player
 {
 	//보드의 정보가 나타날 때마다 저장
-	//-1: 미확인, -2: 지뢰, 0~8: 주변 지뢰의 수
+	//-2: 확인예정, -1: 미확인, -2: 지뢰, 0~8: 주변 지뢰의 수
+	//cpp파일 수정 필요!
 	int boardInfo[BOARD_SIZE][BOARD_SIZE];
 	deque<myPoint> toCheck_queue;
 public:

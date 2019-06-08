@@ -5,8 +5,8 @@
 using namespace std;
 
 //폭탄의 개수
-#define MINE_COUNT 10
+#define MINE_COUNT 100
 //보드의 크기
-#define BOARD_SIZE 20
+#define BOARD_SIZE 200
 
 #endif
